@@ -1,0 +1,31 @@
+{
+  "mainAssemblyName": "Wergel.Client",
+  "resources": {
+    "hash": "sha256-yXKo8cbgaSv4N3huUfuTx6Y3LDBG2kXJpPhlFJXLFfI=",
+    "jsModuleNative": {
+      "dotnet.native.8.0.3.9x1r6fd9bw.js": "sha256-Y+sPRgv8a11mCE3cvZiPh4HUj2zncLIdD0l+9fHDoHc="
+    },
+    "jsModuleRuntime": {
+      "dotnet.runtime.8.0.3.d2kvxvq3vc.js": "sha256-eQgtmRxLcbxYmADDa49CHs/GuJ7nM6d/UFWo4EVhuIw="
+    },
+    "wasmNative": {
+      "dotnet.native.wasm": "sha256-wZS2WxZKVZOmJ6OBDZX+dlnquu70C9i44KD9umOEUN0="
+    },
+    "icu": {
+      "icudt_CJK.dat": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
+      "icudt_EFIGS.dat": "sha256-8fItetYY8kQ0ww6oxwTLiT3oXlBwHKumbeP2pRF4yTc=",
+      "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
+    },
+    "assembly": {
+      "System.Console.wasm": "sha256-/kDrE677II4B+z9JQhcLAxlAv/MDyLL2BPUakv9SZJ4=",
+      "System.Private.CoreLib.wasm": "sha256-UOeRUov+xz6tw861mCGeFgyhEU9g5iSeQ4JdVkYoxq4=",
+      "System.Runtime.InteropServices.JavaScript.wasm": "sha256-tF3sLZbnj6usK+NKBGcwATfpQ6vzBDQojqMMnt8oTNs=",
+      "System.Runtime.wasm": "sha256-jVK6aqyLyTjn6lCH6313nvsQbRPwPtitSOHhJPyCGdY=",
+      "Wergel.Client.wasm": "sha256-Wc2J8uNDXsXrqVIgMCMU0iuRMRvHTsIqtyoUeU99gXs="
+    }
+  },
+  "cacheBootResources": true,
+  "debugLevel": 0,
+  "linkerEnabled": true,
+  "globalizationMode": "sharded"
+}
